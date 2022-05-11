@@ -19,7 +19,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 
-public class PackageManager : MonoBehaviour
+public class PackageSpawner : MonoBehaviour
 {
     public DrivingSurfaceManager DrivingSurfaceManager;
     public PackageBehaviour Package;
